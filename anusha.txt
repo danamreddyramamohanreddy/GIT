@@ -2,3 +2,7 @@
 #this file is created for practicing git topic for devops class.
 #
 Hello this is new commit for today that we have new project where we will develop some new things here so Version3 here will check to new build 
+
+
+This is new version of checking that poll SCM 
+
