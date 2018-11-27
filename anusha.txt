@@ -15,3 +15,9 @@ This is version 5 for checking auto build will happen or not
 This is next level of testing in my git repository that makes me very happy to learn this one 
 
 this is version 6
+
+
+Hello this is new one that will tell us version number 7 going to be create new commit 
+
+Here what we get to know is how it communicate from linux machine
+
